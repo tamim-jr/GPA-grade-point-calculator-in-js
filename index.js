@@ -1,10 +1,10 @@
 var input = prompt("Enter your marks here: ");
 
 if (input >= 80 && input <= 100) {
-    document.write("Congratulation! You got A+ Grade");
+    document.write("Congratulations! You got A+ Grade");
 }
 else if (input >= 70 && input <= 79) {
-    document.write("Congratulation! You got A Grade");
+    document.write("Congratulations! You got A Grade");
 }
 else if (input >= 60 && input <= 69) {
     document.write("You got A- Grade");
